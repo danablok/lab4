@@ -1,0 +1,36 @@
+* {
+    font-family: Comfortaa, cursive
+}
+
+#app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/space2_1.b80f2a4d.png);
+    min-width: 400px;
+    min-height: 700px
+}
+
+#nav {
+    padding: 30px
+}
+
+#nav a {
+    font-weight: 700
+}
+
+#nav a.router-link-exact-active {
+    color: #42b983
+}
+
+a {
+    font-weight: 700;
+    color: #b5e3ff
+}
+
+a:hover {
+    color: #f7f7f7;
+    font-size: 1.2em;
+    text-decoration: none
+}
